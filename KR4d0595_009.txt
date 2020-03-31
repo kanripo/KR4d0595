@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 玉笥集
-#+DATE: 2020-03-31 11:36:11.973675
+#+DATE: 2020-03-31 11:36:12.054909
 #+PROPERTY: ID KR4d0595
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4d0595_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -160,7 +160,7 @@
 　　東湖水西湖水日夜流匯彭蠡揚瀾左里何渺茫萬頃¶
 鏡面含天光廬山高聳湖水上屏風九疊倒影湖中央¶
 湖光山色兩竒絶翠靄丹霞互明滅夜深明月落波心¶
-疑是驪龍吐珠光&KR0177;&KR0177;湖水復湖水滔滔流向東何當¶
+疑是驪龍吐珠光燁燁湖水復湖水滔滔流向東何當¶
 載我上京國却尋五老巢雲松¶
 ¶
 <pb:KR4d0595_WYG_009-7a>¶
